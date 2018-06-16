@@ -2,3 +2,15 @@
 #header {
   background-color: ##E6FFFF;
 }
+
+
+#navigation {
+  width: 180px;
+  float: left;
+}
+
+
+#text {
+  width: 600px;
+  float: right;
+}
