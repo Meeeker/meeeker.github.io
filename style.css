@@ -1,17 +1,23 @@
-
+body {
+ background-color: grey; 
+}
+  
 #header {
-  background-color: ##E6FFFF;
+  background-color: white;
 }
 
+#pusheen {
+ background-color: white
 
 #navigation {
   width: 250px;
   float: left;
-  background-color: red;
+  background-color: white;
 }
 
 
 #text {
   width: 1500px;
   float: right;
+  background-color: white;
 }
